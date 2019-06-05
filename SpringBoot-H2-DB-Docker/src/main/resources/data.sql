@@ -1,0 +1,1 @@
+//INSERT INTO EMPLOYEE (`name`, `jobtitle`, `address`) values ('Arpit Vaish','Software Egineer','Bangalore' );
