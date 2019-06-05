@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>SpringBoot-MySQL-Docker</name>
-	<comment>Project EmployeeRegistratin - SpringBoot created by Buildship.</comment>
+	<name>SpringBoot Projects</name>
+	<comment>Various SpringBoot Tutorials</comment>
 	<projects>
 	</projects>
 	<buildSpec>
