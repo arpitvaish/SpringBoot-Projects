@@ -7,9 +7,11 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
 
 @Entity
 @Table(name = "EMPLOYEE")
+@XmlRootElement
 public class Employee implements Serializable {
 
 	private static final long serialVersionUID = -4680573348497201209L;

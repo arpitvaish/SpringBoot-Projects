@@ -41,8 +41,9 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	runtimeOnly 'org.springframework.boot:spring-boot-devtools'
- 	//testCompile("junit:junit")
- 	//compile 'mysql:mysql-connector-java'
+	compile group: 'com.google.code.gson', name: 'gson', version: '2.7'
+ 	testCompile("junit:junit")
+ 	compile 'mysql:mysql-connector-java'
  	compile group: 'io.springfox', name: 'springfox-swagger2', version: '2.9.2'
  	compile group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.2'
  	testImplementation 'org.springframework.boot:spring-boot-starter-test'
