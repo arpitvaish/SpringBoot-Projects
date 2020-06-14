@@ -9,10 +9,10 @@
   
 ## Project : SpringBootStructure
   This is spring boot application which covers most of the spring topics like : 
-  a. AOP
-  b. DAO
-  c. Interceptors
-  d. Scheduler
-  c. Rest API
-  d. JUNIT
+  1. AOP
+  2. DAO
+  3. Interceptors
+  4. Scheduler
+  5. Rest API
+  6. JUNIT
   A good code base to cover all basic of spring.
