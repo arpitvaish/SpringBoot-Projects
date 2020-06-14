@@ -15,4 +15,4 @@
   4. Scheduler
   5. Rest API
   6. JUNIT
-  A good code base to cover all basic of spring.
+A good code base to cover all basic of spring.
